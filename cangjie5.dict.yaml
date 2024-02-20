@@ -3,7 +3,7 @@
 
 ---
 name: "cangjie5"
-version: "1.0"
+version: "0.3"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
